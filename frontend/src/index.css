@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 body {
- background: linear-gradient(to right, #f2f2f2, #e0eafc);
+  /* background: url(../public/bg.avif); */
+ background: linear-gradient(to right, #1e1e2f, #2a2a40);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
